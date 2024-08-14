@@ -1,2 +1,2 @@
-# Project1
+# Tic Tac Toe Game
 This is my first reprository
